@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Mabeza</string>
+    <string name="call_numer">call number</string>
+    <string name="geolocate">geolocaliser</string>
+    <string name="text_accounts">Liste de comptes</string>
+    <string name="hint_name">Nom</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="text_login">Login</string>
+    <string name="text_register">Enregistrer</string>
+    <string name="error_message_name">Entrer le  nom complet</string>
+    <string name="error_message_email">Entrer un Email valide</string>
+    <string name="error_message_age">Saisir Age</string>
+    <string name="error_message_password">Saisir Mot de passe</string>
+    <string name="success_message">Inscription réussie</string>
+    <string name="text_not_member">pas de compte? inscrivez vous</string>
+    <string name="text_already_member">Deja membre? Connexion</string>
+    <string name="error_email_exists">Email déjà enregistré</string>
+    <string name="error_password_match">Password differents</string>
+    <string name="error_valid_email_password">Erreur Email ou Mot de Passe</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="text_hello">Hello,</string>
+    <string name="text_title">Mabeza</string>
+    <string name="title_item_list">Items</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
